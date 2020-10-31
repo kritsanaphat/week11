@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Kritsanaphat\source\week11\week11\Source.cpp(64,6): warning C4101: 'y': unreferenced local variable
+C:\Users\Kritsanaphat\source\week11\week11\Source.cpp(63,7): warning C4101: 'x': unreferenced local variable
+  week11.vcxproj -> C:\Users\Kritsanaphat\source\week11\Debug\week11.exe
